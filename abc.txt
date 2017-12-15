@@ -1,0 +1,5 @@
+type=async-response
+&serial-number=00000000-0000-0000-0000-000001119ef3
+&merchant-order-id=19691231060000
+&paynet-order-id=796075
+&end-point-id=499
